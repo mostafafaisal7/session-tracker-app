@@ -1,4 +1,4 @@
-# 📘 Session Tracker
+# 📘 Session Tracker Mobile app
 
 A minimalist, offline-friendly Android app to track Claude AI Max session usage. Designed for focus and productivity, with a modern, fluid UI and interactive animations.
 
